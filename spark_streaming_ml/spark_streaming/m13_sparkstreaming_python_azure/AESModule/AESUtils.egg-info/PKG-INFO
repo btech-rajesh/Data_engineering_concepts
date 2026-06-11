@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: AESUtils
+Version: 0.0.1
+Summary: A utility package for AES encryption and decryption in PySpark
+Author: Rajesh Kumar
+Requires-Python: >=3.8
